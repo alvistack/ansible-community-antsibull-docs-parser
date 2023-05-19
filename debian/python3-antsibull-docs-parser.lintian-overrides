@@ -1,0 +1,4 @@
+python3-antsibull-docs-parser: copyright-without-copyright-notice
+python3-antsibull-docs-parser: initial-upload-closes-no-bugs
+python3-antsibull-docs-parser: no-manual-page
+python3-antsibull-docs-parser: zero-byte-file-in-doc-directory

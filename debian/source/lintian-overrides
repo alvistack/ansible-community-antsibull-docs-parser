@@ -1,0 +1,5 @@
+python-antsibull-docs-parser source: file-without-copyright-information
+python-antsibull-docs-parser source: no-debian-changes
+python-antsibull-docs-parser source: source-contains-prebuilt-windows-binary
+python-antsibull-docs-parser source: source-is-missing
+python-antsibull-docs-parser source: source-package-encodes-python-version
